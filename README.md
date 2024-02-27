@@ -1,4 +1,4 @@
-# network-scaner
+# Network-Scaner
 Code that will scan all port openings
 ```
 sudo apt install git
