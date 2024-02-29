@@ -1,4 +1,4 @@
-k#!/bin/bash
+#!/bin/bash
 
 ip=$1
 
@@ -21,4 +21,3 @@ if ping -c 1 -W 1 "$ip" &> /dev/null; then
 else
     echo "Host $ip is down."
 fi
-done
