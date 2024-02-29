@@ -19,7 +19,7 @@ To scan a single port or a range of ports:
     
     $ python3 NetScanPor.py 192.168.126.130 30
     
-    $ python3 NetScanPor.py 192.168.139.39 21
+    $ python3 NetScanPor.py 192.168.139.30 21
 
 To scan all ports:
 
