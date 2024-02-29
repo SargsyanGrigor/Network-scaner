@@ -17,7 +17,7 @@
 
 To scan a single port or a range of ports: 
     
-    $ python3 NetVision.py 192.168.126.129 21
+    $ python3 NetVision.py 192.168.126.130 30
     
     $ python3 NetVision.py 192.168.126.129 21/1000
 
