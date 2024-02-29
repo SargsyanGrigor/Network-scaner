@@ -17,16 +17,12 @@
 
 To scan a single port or a range of ports: 
     
-    $ python3 NetVision.py 192.168.126.130 30
+    $ python3 NetScanPor.py 192.168.126.130 30
     
-    $ python3 NetVision.py 192.168.126.129 21/1000
+    $ python3 NetScanPor.py 192.168.139.39 21
 
 To scan all ports:
 
-    $ python3 NetVision.py 192.168.126.129 -p-
+    $ python3 NetScanPor.py.py 192.168.130.30 -p-
 
-For help:
 
-    $ python3 NetVision.py -h
-    $ python3 NetVision.py --help
-    $ python3 NetVision.py help
