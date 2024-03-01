@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<h1>NetVision Network Scanner</h1>
+<h1>Here you can already see how our code works and produces the result</h1>
   
 
 
