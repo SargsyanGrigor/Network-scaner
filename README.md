@@ -11,7 +11,8 @@
   
 
 
-![image](https://github.com/SargsyanGrigor/Network-scaner/assets/106109042/f0976462-bd40-4a02-836f-699de82678cc)
+![image](https://github.com/SargsyanGrigor/Network-scaner/assets/106109042/e1741f8c-d111-433a-82ec-850d56bf5448)
+
 
 
 # Features
