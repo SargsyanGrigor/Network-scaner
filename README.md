@@ -1,7 +1,8 @@
 # network-scaner
+<div align="center">
+<h1>What our code looks like</h1>
 
-What our code looks like
-![image](https://github.com/SargsyanGrigor/Network-scaner/assets/106109042/88caeb83-4c48-406c-b682-d6ec2c20af4e)
+  ![image](https://github.com/SargsyanGrigor/Network-scaner/assets/106109042/88caeb83-4c48-406c-b682-d6ec2c20af4e)
 
 
 
