@@ -22,16 +22,8 @@
 <li>Displays scan results including port number, protocol, and state.</li>
 <li>User-friendly interface.</li>
 
-# Usage
 
-To scan a single port or a range of ports: 
-    
-    $ python3 NetScanPor.py 192.168.126.130 30
-    
-    $ python3 NetScanPor.py 192.168.139.30 21
 
-To scan all ports:
 
-    $ python3 NetScanPor.py.py 192.168.130.30 -p-
 
 
